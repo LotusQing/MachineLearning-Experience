@@ -7,11 +7,11 @@
 - [x] PCA
 
 ## Todo：
-- [] Descion Tree 
-- [] Logistic Regression
-- [] SVM
-- [] AdaBoost
-- [] Apriori
-- [] FP-growth
-- [] SVD
-- [] MapReduce
+- [ ] Descion Tree 12.27
+- [ ] Logistic Regression 12.28
+- [ ] SVM 12.28
+- [ ] AdaBoost 12.30
+- [ ] SVD 12.29
+- [ ] Apriori
+- [ ] FP-growth
+- [ ] MapReduce
