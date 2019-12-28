@@ -7,8 +7,8 @@
 - [x] PCA
 
 ## Todo：
-- [ ] Descion Tree 12.27
-- [ ] Logistic Regression 12.28
+- [x] Descion Tree 12.27
+- [x] Logistic Regression 12.28
 - [ ] SVM 12.28
 - [ ] AdaBoost 12.30
 - [ ] SVD 12.29
